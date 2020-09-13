@@ -1,0 +1,21 @@
+
+   a{
+      color:black;
+      font-family:calibri;
+      font-size:14px;
+    }
+  .centered{
+   text-align:center;
+  }
+   h3{
+  width: 150px;
+  height: 40px;
+  COLOR: #99AEAD;
+  position: relative;
+  animation: mymove 6s infinite;
+}
+
+@keyframes mymove {
+  from {left: 30px;}
+  to {left: 600px;}
+}
