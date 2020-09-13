@@ -20,11 +20,3 @@ tr:nth-child(even){
 #a{
   text-align:center;
 }
-.center{
- margin: auto;
- width: 30%;
- height:300;
- border: 2px solid darkcyan;
- padding:15px;
- overflow:auto;
-}
